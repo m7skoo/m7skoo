@@ -37,7 +37,7 @@
 
 - 🔭 I’m currently working on **Flutter and Laravel**
 
-- 🌱 I’m currently learning **Back-End Dev**
+- 🌱 I’m Professional in Full stack programming  ** Full Stack Dart and laravel   Dev**
 
 - 💬 Ask me about **Flutter, Dart, Firebase, API, Laravel, PostgreSQL, and MongoDB**
 
